@@ -1,5 +1,5 @@
-<h1 align='center' ### Hi there 👋 </h1>
-<h2 align='center' I'm Priyasha (or Ashley), a second year computer science student at the Universty of Melbourne. </h2>
+### Hi there 👋 
+I'm Priyasha (or Ashley), a second year computer science student at the Universty of Melbourne.
 
 
 ## 🔭 What am I working on?
