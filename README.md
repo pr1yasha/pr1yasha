@@ -11,10 +11,8 @@ In my spare time, I'm the Events Director of Women in Tech and enjoy hosting eve
 
 I'm recently learning more about quantum computing, cybersecurity and hacking! I also enjoy other fields of science and technology, particularly physics. In my free time, I love listening to and creating music, as well as reading and reviewing books!
 
-## 😄 Pronouns: 
+# 😄 Pronouns: 
 she/her
-## ⚡ Fun fact: 
-My best friend is my golden retriever
 
 
 <!--
