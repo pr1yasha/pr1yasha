@@ -4,7 +4,7 @@ I'm Priyasha (or Ashley), a second year computer science student at the Universt
 
 ## 🔭 What am I working on?
 
-I'm currently a full time university student and also do freelance web development. I'm also an upcoming backend software engineer at Atlassian :)
+I'm currently a full time university student and also do freelance web development. I'm also an upcoming backend software engineer intern at Atlassian :)
 
 In my spare time, I'm the Events Director of Women in Tech and enjoy hosting events to connect people across genders and encourage passion among students in Computer Science. I'm also a member of the Information Security club and an enjoy competitive programming through the University of Melbourne Competitive Programming Club. 
 
