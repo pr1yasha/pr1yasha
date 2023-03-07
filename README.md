@@ -1,16 +1,4 @@
-### Hi there 👋 
-I'm Priyasha (or Ashley), a second year computer science student at the Universty of Melbourne.
 
-
-## 🔭 What am I working on?
-
-I'm currently a full time university student and also do freelance web development. I'm also an upcoming backend software engineer intern at Atlassian :)
-
-In my spare time, I'm the Events Director of Women in Tech and enjoy hosting events to connect people across genders and encourage passion among students in Computer Science. I'm also a member of the Information Security club and an enjoy competitive programming through the University of Melbourne Competitive Programming Club. 
-
-## 💬 Talk to me about 
-
-I'm recently learning more about quantum computing, cybersecurity and hacking! I also enjoy other fields of science and technology, particularly physics. In my free time, I love listening to and creating music, as well as reading and reviewing books!
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
