@@ -1,4 +1,6 @@
 
+Software Engineer at Atlassian
+Student at the University of Melbourne 
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
